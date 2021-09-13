@@ -87,6 +87,11 @@
 			<locationURI>PARENT-2-PROJECT_LOC/HelperFunc</locationURI>
 		</link>
 		<link>
+			<name>HelperFunction</name>
+			<type>2</type>
+			<location>C:/ti/Hercules/Cortex-R4 CMSIS DSP Library/1.0.0/Examples/HelperFunc</location>
+		</link>
+		<link>
 			<name>Source</name>
 			<type>2</type>
 			<locationURI>PARENT-3-PROJECT_LOC/DeviceSupport/TI/Source</locationURI>
