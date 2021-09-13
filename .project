@@ -82,11 +82,6 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>HelperFunc</name>
-			<type>2</type>
-			<locationURI>PARENT-2-PROJECT_LOC/HelperFunc</locationURI>
-		</link>
-		<link>
 			<name>HelperFunction</name>
 			<type>2</type>
 			<location>C:/ti/Hercules/Cortex-R4 CMSIS DSP Library/1.0.0/Examples/HelperFunc</location>
@@ -97,7 +92,7 @@
 			<locationURI>PARENT-3-PROJECT_LOC/DeviceSupport/TI/Source</locationURI>
 		</link>
 		<link>
-			<name>arm_matrix_example_f32.c</name>
+			<name>arm_matrix_example_f321.c</name>
 			<type>1</type>
 			<locationURI>PARENT-1-PROJECT_LOC/arm_matrix_example_f32.c</locationURI>
 		</link>
